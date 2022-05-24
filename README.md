@@ -1,7 +1,7 @@
 # BopIt (Vita Edition)
 #### incudes audio languages : EN, ES, FR, IT, DE
 ------
-* The installed VPKs that this tool uses and creates was written in Lua Player Plus Vita (lpp-vita). [Learn more.](https://github.com/Rinnegatamante/lpp-vita)
+* Utilises Lua Player Plus Vita (lpp-vita). [Learn more.](https://github.com/Rinnegatamante/lpp-vita)
 
 ![](https://github.com/AntHJ/BopIt-Vita/blob/main/BopIt.png)
 
